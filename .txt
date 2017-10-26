@@ -1,4 +1,4 @@
-Disaster Management
+Disaster Managemen
 
 1..Earthqake....
 An earthquake is a sudden trembling or shaking movement of the earth's crust.
@@ -11,3 +11,8 @@ As the magma reaches the earth's surface , it is called lava.
 3..Cyclones...
 A cyclone is a low pressure area surrounded by high pressure area  from all sides.This results in winds blowing from all the sides towards the center of the cyclones called the eye of the cyclones,and creating swirling winds around the eye.
 There are two tyes of cyclones-temerature cyclone and tropical cyclone.
+
+4..Flood..
+Heavy rainfall causes sudden increase in the volume of water.It overflows the bank of rivers and floods the plain areas.
+There are other causesof floods.
+Sitting of the river beds, changes in the river courses and deforestation and other causes the floods.
