@@ -1,2 +1,4 @@
 Disaster Management
-1..Earthqake
+1..Earthqake....
+An earthquake is a sudden trembling or shaking movement of the earth's crust.
+An instrument calles the seismograph is used to detect the occurence of the earthquake.
