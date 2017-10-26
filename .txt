@@ -1,4 +1,10 @@
 Disaster Management
+
 1..Earthqake....
 An earthquake is a sudden trembling or shaking movement of the earth's crust.
 An instrument calles the seismograph is used to detect the occurence of the earthquake.
+
+2..Volcanic Eruption..
+In volcanic activities, molten rocks called magna rises up from the interior of the earth and pushes its way through weak structure in the interior of the earth. The opening  of the earth's crust through which magna reaches the earth's surface is known as volcano.
+As the magma reaches the earth's surface , it is called lava.
+
